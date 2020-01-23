@@ -16,3 +16,21 @@
 * **[pandas](https://pypi.org/project/pandas/)**
 * **[pypdb](https://pypi.org/project/pypdb/)**
 
+### Description
+
+* `clean_seq_and_exp.ipynb` cleans and stores gene sequence and expression data as csv.
+
+* `get_pdb.ipynb` gets the PDB ID data and stores in csv format. Also subsamples from the gene sequence and expression data.
+
+* `encode.ipynb` encodes the data and converts to matrices (images) for easier handling.
+
+* `resize.ipynb` resizes the images.
+
+* `generate.ipynb` generates a common subspace for all the modalities using SBM.
+
+* `clustering.ipynb` performs k-means clustering with the generated data and gives relevant results
+
+* `individual_clustering.ipynb` gives the metrics of clustering performed in individual modalities.
+
+## Contribution
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also you can contact to the corresponding authors [Piyush Mishra](mailto:piyushmishra1999@gmail.com) and [Pratik Dutta](mailto:pratik.pcs16@iitp.ac.in )
