@@ -33,4 +33,4 @@
 * `individual_clustering.ipynb` gives the metrics of clustering performed in individual modalities.
 
 ## Contribution
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also you can contact to the corresponding authors [Piyush Mishra](mailto:piyushmishra1999@gmail.com) and [Pratik Dutta](mailto:pratik.pcs16@iitp.ac.in )
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Also you can contact to the corresponding authors [Piyush Mishra](mailto:piyushmishra1999@gmail.com) and [Pratik Dutta](mailto:pratik.pcs16@iitp.ac.in).
