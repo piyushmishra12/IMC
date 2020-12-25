@@ -7,7 +7,7 @@
 
 - **Authors:** Pratik Dutta<sup>1</sup>, Piyush Mishra<sup>2</sup> and Sriparna Saha<sup>1</sup>.
 - **Affiliation:** <sup>1</sup>Department of Computer Science and Engineering, Indian Institute of Technology Patna; <sup>2</sup>Department of Computer Science and Engineering, IIIT Bhubaneswar.  
-- **Accepted:(08/08/2020):** [Computers in Medicine and Biology, Elsevier](https://www.springer.com/journal/11042/)
+- **Accepted:(08/08/2020):** [Computers in Medicine and Biology, Elsevier](https://www.sciencedirect.com/science/article/abs/pii/S0010482520302985)
 
 The paper presents a pipeline of methodology which seeks to remove the previous redundancies and unnecessary complications in computations for such kind of experimentation in multi-view gene clustering. For the most part, the study is successful in providing it with easy to understand code. A huge effort is put to make sure code is not a barrier to understanding the nuances of the study.
 
