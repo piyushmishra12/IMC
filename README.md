@@ -1,7 +1,7 @@
 # IMC_Gene
 
 
-## This is the readme file that contains the guidelines and information about the compilation the code of the following paper
+## This is the readme file that contains the guidelines and information about the compilation of the code of the following paper
 
 **Paper Name:-** [Incomplete Multi-view Gene Clustering with Data Regeneration using Shape Boltzmann Machine]() 
 
